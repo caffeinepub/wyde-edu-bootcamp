@@ -690,7 +690,7 @@ export default function RegisterPage() {
                 </div>
 
                 <a
-                  href="https://chat.whatsapp.com/Kl8GtiIiWkl5T626ju4BWL?mode=gi_t"
+                  href="https://chat.whatsapp.com/J1zHEtn0wLE0WfkK0hmVy7?mode=gi_t"
                   target="_blank"
                   rel="noopener noreferrer"
                   data-ocid="register.primary_button"
